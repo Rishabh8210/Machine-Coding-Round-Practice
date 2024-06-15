@@ -1,9 +1,12 @@
 import React from 'react'
-import ReactDOM from 'react-dom/client'
-
+import Home from './components/Home.js'
+import Navbar from './components/Navbar.js'
 const App = () => {
     return (
-        <h1>Rishabh</h1>
+        <>
+            <Navbar />
+            <Home />
+        </>
     )
 }
 export default App;
