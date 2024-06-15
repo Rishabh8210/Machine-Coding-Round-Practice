@@ -1,20 +1,19 @@
 {
   "name": "round---001---practice",
   "version": "1.0.0",
-  "description": "Round one Book shelf Management",
   "scripts": {
-    "test": "jest",
-    "start": "npx parcel index.html",
-    "build": "npx build parcel index.html"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel index.html"
   },
   "author": "Rishabh",
   "license": "ISC",
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
+  "description": "",
   "devDependencies": {
     "parcel": "^2.12.0",
     "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }
