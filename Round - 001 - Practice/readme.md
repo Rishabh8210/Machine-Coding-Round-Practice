@@ -1,0 +1,1 @@
+#### In this project, I have left out some small features, such as showing which books currently belong to which categories when you are searching for a book. I didn't notice this at the beginning, and now I'm not in the mood to implement it, hehe. Additionally, I haven't optimized it well, so if I feel the need to update it in the future, I will make sure to improve everything.
