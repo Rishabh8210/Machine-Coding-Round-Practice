@@ -7,7 +7,9 @@ const currentlyReadingSlice = createSlice({
     },
     reducers: {
         setItemsOfCurrentlyRead:(state, action) => {
-            state.items.push(action.payload)
+            let isAlreadyAdded = state.items.filter(data => data.bookIsbn == action.payload.bookIsbn)
+            if(isAlreadyAdded.length == 0)
+                state.items.push(action.payload)
         },
         deleteItemsOfCurrentlyRead: (state, action) => {
             state.items = state.items.filter(data => data.bookIsbn != action.payload.bookIsbn)

@@ -34,7 +34,8 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/0380728273.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 13.99,
-      "description": "Mystery novel by Nevada Barr."
+      "description": "Mystery novel by Nevada Barr.",
+      "status": ""
     },
     {
       "bookIsbn": "8433914545",
@@ -45,7 +46,8 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/8433914545.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 12.49,
-      "description": "Novel by Paul Auster."
+      "description": "Novel by Paul Auster.",
+      "status": ""
     },
     {
       "bookIsbn": "446606197",
@@ -56,7 +58,8 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/0446606197.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 10.99,
-      "description": "Mystery novel by Margaret Maron."
+      "description": "Mystery novel by Margaret Maron.",
+      "status": ""
     },
     {
       "bookIsbn": "771076002",
@@ -67,7 +70,8 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/0771076002.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 9.99,
-      "description": "Tribute book by Edna Barker."
+      "description": "Tribute book by Edna Barker.",
+      "status": ""
     },
     {
       "bookIsbn": "771088191",
@@ -78,7 +82,8 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/0771088191.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 14.99,
-      "description": "Anthology edited by Muriel Whitaker."
+      "description": "Anthology edited by Muriel Whitaker.",
+      "status": ""
     },
     {
       "bookIsbn": "1559703237",
@@ -89,7 +94,8 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/1559703237.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 11.49,
-      "description": "Short story collection by John Irving."
+      "description": "Short story collection by John Irving.",
+      "status": ""
     },
     {
       "bookIsbn": "3596214629",
@@ -100,7 +106,8 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/3596214629.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 9.99,
-      "description": "Novel by William Golding."
+      "description": "Novel by William Golding.",
+      "status": ""
     },
     {
       "bookIsbn": "671847546",
@@ -111,7 +118,8 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/0671847546.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 13.99,
-      "description": "Travel guidebook."
+      "description": "Travel guidebook.",
+      "status": ""
     },
     {
       "bookIsbn": "60188731",
@@ -122,6 +130,7 @@ export const BookData = [
       "bookImage": "http://images.amazon.com/images/P/0060188731.01.LZZZZZZZ.jpg",
       "ratings": 0,
       "price": 12.99,
-      "description": "Novel by Ann Patchett."
+      "description": "Novel by Ann Patchett.",
+      "status": ""
     }    
 ]
