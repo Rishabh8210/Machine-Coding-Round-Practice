@@ -1,3 +1,3 @@
 # Machine-Coding-Round-Practice
-![Visitor Count](https://profile-counter.glitch.me/Rishabh8210/count.svg)
+![](https://komarev.com/ghpvc/?username=Rishabh8210&color=red&label=Visitor+Count)
 This repo includes Machine coding round question - solution (with explanation)
